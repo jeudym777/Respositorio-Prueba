@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Yeudi MS
+ * @author Yeudi Martinez Sanchez
  */
 public class Tren extends Monitor implements Visitable{
         String idTren,idChofer;
